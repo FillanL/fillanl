@@ -4,6 +4,10 @@
 <img align="Left" width="47%" alt="Fillan's Top Programing languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact">
 
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <!--
 **FillanL/fillanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
