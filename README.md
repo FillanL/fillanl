@@ -1,4 +1,5 @@
 # Hi, I'm Fill 💻
+I'm a Full Stack Software Engineer. Link to my portfolio here.
 [Fillan.dev - portfolio website](https://www.fillan.dev)
 
 <img align="Left" width="47.5%" alt="Fillan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula">
