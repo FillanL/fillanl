@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Fillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=radical)
+![Fillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
