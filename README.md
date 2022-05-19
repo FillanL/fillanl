@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi I'm Fill 👋
+
+![portfolio website](https://www.fillan.dev)
+
+- 🔭 I’m currently working on ...
+    - ![Creattur](https://www.creattur.com)
+- 🌱 I’m currently learning ...
+    - Go 
 
 <img align="Left" width="47%" alt="Fillan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula">
 <img align="Left" width="47%" alt="Fillan's Top Programing languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact">
