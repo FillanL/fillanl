@@ -1,16 +1,17 @@
-# Hi I'm Fill 👋
-
-![portfolio website](https://www.fillan.dev)
-
-- 🔭 I’m currently working on ...
-    - ![Creattur](https://www.creattur.com)
-- 🌱 I’m currently learning ...
-    - Go 
+# Hi, I'm Fill 👋
 
 <img align="Left" width="47%" alt="Fillan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula">
 <img align="Left" width="47%" alt="Fillan's Top Programing languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact">
 
+[Fillan.dev - portfolio website](https://www.fillan.dev)
 
+- 🔭 I’m currently working on:
+    - ![Creattur](https://www.creattur.com)
+- 🌱 I’m currently learning:
+    - Go 
+
+
+- Preferred Workflow
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
