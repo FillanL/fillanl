@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="Left" alt="Fillan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula">
-<img align="Left" alt="Fillan's Top Programing languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact">
+<img align="Left" width="47%" alt="Fillan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fillanl&show_icons=true&theme=dracula">
+<img align="Left" width="47%" alt="Fillan's Top Programing languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillanl&layout=compact">
 
 
 <!--
