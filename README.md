@@ -9,16 +9,13 @@ I'm a Full Stack Software Engineer. Link to my portfolio here.
 - 🔭 I’m currently working on:
     - [Creattur](https://www.creattur.com)
 - 🌱 I’m currently learning:
-    - Go 
 
 
 ### Preferred Workflow
 <br />
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <!--
 **FillanL/fillanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
